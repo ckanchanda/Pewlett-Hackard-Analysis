@@ -20,3 +20,11 @@ mentorship program.
 ![](Resources/mentorship_eligibility.jpg)
 
 ## Summary
+* Over 72,000 roles will need to be filled as the "silver tsunami" begins to
+make an impact.
+* There are not enough retirement-ready employees in the departments to mentor 
+the next generation of Pewlett Hackard employees. There are 1500 mentors for 
+over 72,000 positions that need to be filled. That's a ratio of around 47:1 
+new employees per mentor which is too much. 
+![](Resources/Deliverable_3.PNG)
+
